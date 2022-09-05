@@ -1,12 +1,8 @@
 
 <p align="center">
-BnB Booking System
+<img src="https://github.com/d3m0n-533d/bnb-booking-system/blob/main/Screenshot%20(52).png"/>
+BnB Booking System that allows admin to make room bookings
 </p>
-
-## Description
-```sh
- - BnB Booking System is an application used to make bookins in BnB's.
-```
 
 ## Change Log
 ```plain
